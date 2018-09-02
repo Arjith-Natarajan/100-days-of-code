@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 1st, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- Completed a single programming task from codewars, came up with a functional non obvious solution
+- Started with competitive coding seriously on different platforms,
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+- I'm getting better in Js. and it is becoming my primary language of choice for solving problems. Array methods like splice, map, reduce are becoming my power tools.
+- Also my algorithmic thinking has improved a lot via learning from other's solutions
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:**
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- [Snail Sort - A Different Approach to Spiral Traversal of 2D matrix](https://github.com/Arjith-Natarajan/ABC/commit/31ba8ae182964d4739ba9ad2998d22b32c8eab76)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: September 2nd, 2018
 
+**Today's Progress**:
 
-### Day 1: June 27, Monday
+- Completed two programming tasks, which I had left unfinished long back
+- Started with Gatsby.js to create an awesome personal Website
+- Setup a basic gatsby.js static site and hosted it in [surge.sh](https://surge.sh)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:**
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+- Going to make solving atleast one or two coding problems everyday(even partial) a routine
+- Gatsby Seems to be a great choice for my personal portfolio site given my background in React. Exploring the [JAM Stack]()
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:**
+
+- [Daily Coding Tasks from codewars](https://github.com/Arjith-Natarajan/ABC/commit/646c154c7b5969941dcd09b9c253202232c93eca)
+- [Personal Potfolio setup Gatsby.js](https://github.com/Arjith-Natarajan/prsnl-website/commit/8ce470330fbfba6b0c345190f87b658b79691f28) - [Article](https://www.gatsbyjs.org/tutorial/part-one/)
