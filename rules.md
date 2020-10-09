@@ -6,9 +6,9 @@
 
 #### Start Date
 
-| Start Date | End Date |
-| ---------- | -------- |
-| 1 Sep 2018 | -------- |
+| Start Date  | End Date |
+| ----------- | -------- |
+| 10 Oct 2020 | -------- |
 
 ## Additional Rules
 
